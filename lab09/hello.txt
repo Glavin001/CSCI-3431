@@ -1,0 +1,8 @@
+roses.txt: 1: Roses are red.
+knock.txt: 1: Knock, knock!
+roses.txt: 2: Violets are blue.
+knock.txt: 2: Who's there?
+roses.txt: 3: O/S is hard.
+knock.txt: 3: Art.
+roses.txt: 4: This is so true!
+knock.txt: 4: Art who?
